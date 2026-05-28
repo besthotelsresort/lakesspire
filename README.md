@@ -1,0 +1,2 @@
+# lakesspire
+Static site: lakesspire
